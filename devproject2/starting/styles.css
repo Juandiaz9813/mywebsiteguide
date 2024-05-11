@@ -1,0 +1,147 @@
+body{
+    font-family: 'Sedan SC';
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+
+.container {
+    border: 5px solid #000;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+
+.color-panel {
+    color: #fff;
+    display: inline-block;
+    border: 2px solid #000;
+    border-radius: 10px;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+
+}
+
+.blue {
+    background-color: #2D5DCC;
+}
+
+.purple {
+    background-color: #A71CC9;
+}
+
+.gold {
+    background-color: #DBD10B;
+}
+
+.red {
+    background-color: #FF0000;
+}
+
+.sedan {
+    font-family: 'Sedan SC';
+    text-decoration: underline;
+    font-size: 48px;
+}
+
+.regular-sedan {
+    font-family: 'Sedan SC';
+    font-size: 20px;
+}
+
+.bold-sedan {
+    font-family: 'Sedan SC';
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.italic-sedan {
+    font-family: 'Sedan SC';
+    font-style: italic;
+    font-size: 20px;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+}
+
+.jaro {
+    font-family: 'Jaro';
+    text-decoration: underline;
+    font-size: 48px;
+}
+
+.regular-jaro {
+    font-family: 'Jaro';
+    font-size: 20px;
+}
+
+.bold-jaro {
+    font-family: 'Jaro';
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.italic-jaro {
+    font-family: 'Jaro';
+    font-size: 20px;
+    font-style: italic;
+}
+
+.briem {
+    font-family: 'Briem Hand';
+    text-decoration: underline;
+    font-size: 48px;
+}
+
+.regular-briem {
+    font-family: 'Briem Hand';
+    font-size: 20px;
+}
+
+.bold-briem {
+    font-family: 'Briem Hand';
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.italic-briem {
+font-family: 'Briem Hand';
+font-size: 20px;
+font-style: italic;
+}
+
+
+.text-panel h2 li{
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Briem Hand';
+}
+
+.text-panel p li{
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Briem Hand';
+}
